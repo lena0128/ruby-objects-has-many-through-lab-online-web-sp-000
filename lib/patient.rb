@@ -20,7 +20,7 @@ end
 
 def doctors
   appointments.collect do |appointment|
-    appoinment.doctor
+    appointment.doctor
   end
 end
 

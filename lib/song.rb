@@ -18,8 +18,6 @@ def genre=(genre_name)
   self.genre = genre_name
 end
 
-end
-
 def artist
 end
 

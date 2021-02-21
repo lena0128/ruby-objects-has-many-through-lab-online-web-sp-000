@@ -18,7 +18,8 @@ def genre=(genre_name)
   self.genre = genre_name
 end
 
-def artist
+def artist=(artist_name)
+  self.artist = artist_name
 end
 
 end

@@ -22,7 +22,4 @@ def doctor=(doctor)
   self.doctor = doctor
 end
 
-
-end
-
 end

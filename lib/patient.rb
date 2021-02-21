@@ -18,5 +18,10 @@ def appointments
  end
 end
 
+def doctors
+  appointments.collect do |appointment|
+    appoinment.doctor
+  end
+end
 
 end
